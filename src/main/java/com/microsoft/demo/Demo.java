@@ -8,5 +8,6 @@ public class Demo {
         }
 
         System.out.println("I am not covered");
+        System.out.println("This is test pipeline for master branch");
     }
 }
